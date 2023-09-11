@@ -18,5 +18,3 @@ fn main(){
     println!("{} tiene {} vocales", cadena_texto, numero);
 
 }
-
-// ta malo arreglar saludos,,,
